@@ -23,6 +23,8 @@ Tech used :
  
 ## Screenshot. 
 
+<img width="605" alt="twitter-pic" src="https://user-images.githubusercontent.com/110522979/197962422-8bfb4c8f-3d55-4ff8-9579-2f2e85fd8d23.png">
+
 
 
 
